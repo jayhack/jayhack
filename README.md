@@ -6,4 +6,5 @@ A few things I've built:
 - [Autodoc](https://www.youtube.com/watch?v=grRVXcqAfOY&ab_channel=JayHack): a GPT-3-powered plugin for text-to-code on docs pages
 - [Shameo.tv](https://www.youtube.com/watch?v=Ue8N4ezBp_4&ab_channel=JayHack): Cameo for deepfakes - make celebrities say anything you want in videos
 - [Mira Beauty](https://www.youtube.com/watch?v=QbgiF6vKwC8&ab_channel=JayHack): a personalized shopping platform for cosmetics
+- [AR for Beauty Discovery](https://www.youtube.com/watch?v=-LCRLtbHE_w&ab_channel=JayHack): a "smart mirror" for exploring makeup products and tutorials
 - [CVChess](https://www.youtube.com/watch?v=iZOA1ew-zYc&ab_channel=JayHack): automatic tracking of chess moves via computer vision
