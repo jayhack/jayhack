@@ -4,7 +4,7 @@ I'm an AI enthusiast and entrepreneur based in SF. I've been doing AI product de
 
 A few things I've built:
 - [AutoTool](https://www.youtube.com/watch?v=Jue0FvkZWTw&ab_channel=JayHack): A Codex-powered conversational UI for building Retool dashboards
-- [GP-Tutor](https://www.loom.com/share/945d9fe0f65c440e900fbb1f0f2bef0a): an AI-powered interface that has conversations with you based on Quizlet flashcards
+- [GP-Tutor](https://www.youtube.com/watch?v=4VpMCMYI5rw&ab_channel=JayHack): Turn Quizlet flashcards into a conversational partner using GPT-3
 - [Shameo.tv](https://www.youtube.com/watch?v=Ue8N4ezBp_4&ab_channel=JayHack): Cameo for deepfakes - make celebrities say anything you want in videos
 - [Autodoc](https://www.youtube.com/watch?v=grRVXcqAfOY&ab_channel=JayHack): a GPT-3-powered plugin for text-to-code on docs pages
 - [MIRA BEAUTY](https://www.youtube.com/watch?v=QbgiF6vKwC8&ab_channel=JayHack): a personalized shopping platform for cosmetics
