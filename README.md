@@ -10,7 +10,7 @@ A few things I've built:
 - [ThoughtSpeed](https://twitter.com/mathemagic1an/status/1599818115831205888): A replit-based IDE and hosting platform for AI apps
 - [text-to-notion](https://twitter.com/mathemagic1an/status/1603794991520034818): A conversational UI for creating Notion templates
 - [GP-Tutor](https://www.youtube.com/watch?v=4VpMCMYI5rw&ab_channel=JayHack): Turn Quizlet flashcards into a conversational partner using GPT-3
-- [Shameo.tv](https://www.youtube.com/watch?v=Ue8N4ezBp_4&ab_channel=JayHack): Cameo for deepfakes - make celebrities say anything you want in videos
+- [Shameo.tv](https://twitter.com/mathemagic1an/status/1631024331307483136): Cameo for deepfakes - make celebrities say anything you want in videos
 - [Autodoc](https://www.youtube.com/watch?v=grRVXcqAfOY&ab_channel=JayHack): a GPT-3-powered plugin for text-to-code on docs pages
 - [MIRA BEAUTY](https://www.youtube.com/watch?v=QbgiF6vKwC8&ab_channel=JayHack): a personalized shopping platform for cosmetics
 - [AR for Beauty Discovery](https://www.youtube.com/watch?v=-LCRLtbHE_w&ab_channel=JayHack): a "smart mirror" for exploring makeup products and tutorials
