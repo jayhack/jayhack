@@ -3,6 +3,8 @@
 I'm an AI enthusiast and entrepreneur based in SF. I've been doing AI product develpment and research for over 10 years, most recently at [AI startup](https://beautymatter.com/articles/femtec-health-acquires-mira-beauty-for-28-million) applying personalization to beauty shopping (Mira AI, Inc.).
 
 A few things I've built:
+- [ShellShark](https://twitter.com/mathemagic1an/status/1641586201533587461): An AI-powered sysadmin
+- [ChadCode](https://twitter.com/mathemagic1an/status/1639779842769014784): A ChatGPT plugin for accelerated software engineering
 - [Tensai](https://twitter.com/mathemagic1an/status/1610023513334878208): A conversational UI for your codebase. Ask questions & make codebase-wide changes.
 - [text-to-figma](https://twitter.com/mathemagic1an/status/1589657222094934016): A natural language UI for creating/editing components in Figma
 - [AutoTool](https://twitter.com/mathemagic1an/status/1587443727735214080): A conversational UI for building Retool dashboards
