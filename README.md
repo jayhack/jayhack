@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm an AI enthusiast and entrepreneur based in SF. I've been doing AI product develpment and research for over 10 years, most recently at [AI startup](https://beautymatter.com/articles/femtec-health-acquires-mira-beauty-for-28-million) applying personalization to beauty shopping (Mira AI, Inc.).
+I'm an AI hacker and entrepreneur based in SF. I've been doing AI product develpment and research for over 10 years, most recently at [AI startup](https://beautymatter.com/articles/femtec-health-acquires-mira-beauty-for-28-million) applying personalization to beauty shopping (Mira AI, Inc.). 
+
+I am most active on [Twitter](https://twitter.com/mathemagic1an) and publicize my work there.
 
 A few things I've built:
 - [ShellShark](https://twitter.com/mathemagic1an/status/1641586201533587461): An AI-powered sysadmin
