@@ -8,6 +8,7 @@ A few things I've built:
 - [ShellShark](https://twitter.com/mathemagic1an/status/1641586201533587461): An AI-powered sysadmin
 - [ChadCode](https://twitter.com/mathemagic1an/status/1639779842769014784): A ChatGPT plugin for accelerated software engineering
 - [Tensai](https://twitter.com/mathemagic1an/status/1610023513334878208): A conversational UI for your codebase. Ask questions & make codebase-wide changes.
+- [GitChat](https://twitter.com/mathemagic1an/status/1631762207913684993): ChatGPT experience for pull request review
 - [text-to-figma](https://twitter.com/mathemagic1an/status/1589657222094934016): A natural language UI for creating/editing components in Figma
 - [AutoTool](https://twitter.com/mathemagic1an/status/1587443727735214080): A conversational UI for building Retool dashboards
 - [LLM.sh](https://twitter.com/mathemagic1an/status/1590480438258462721): Type english commands into your shell => be a bash ninja
