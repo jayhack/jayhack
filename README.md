@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm an AI hacker and entrepreneur based in SF. I am the founder and CEO at [Codegen](https://codegen.com), a company building software engineering automation. I've spent the last decade doing AI product develpment and research, most recently at a [startup](https://beautymatter.com/articles/femtec-health-acquires-mira-beauty-for-28-million) applying personalization to cosmetics shopping (Mira AI, Inc.). 
+I'm an AI hacker and entrepreneur based in SF. I am the founder and CEO at [Codegen](https://docs.codegen.com), a company building software engineering automation.
 
 I am most active on [Twitter](https://twitter.com/mathemagic1an) and publicize my work there.
 
 A few things I've built:
-- [Codegen](https://twitter.com/mathemagic1an/status/1725193428060025306): Automated software engineering for enterprise codebases
+- [Codegen](https://docs.codegen.com): Automated software engineering for enterprise codebases
 - [ShellShark](https://twitter.com/mathemagic1an/status/1641586201533587461): An AI-powered sysadmin
 - [ChadCode](https://twitter.com/mathemagic1an/status/1639779842769014784): A ChatGPT plugin for accelerated software engineering
 - [Tensai](https://twitter.com/mathemagic1an/status/1610023513334878208): A conversational UI for your codebase. Ask questions & make codebase-wide changes.
