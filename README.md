@@ -8,6 +8,7 @@ A few things I've built:
 - [Codegen](https://docs.codegen.com): Automated software engineering for enterprise codebases
 - [Graph-sitter](https://graph-sitter.com): Python library for analyzing and manipulating large JS + Python codebases
 - [Galaxy Brain](https://jayhack.github.io/galaxy-brain/#/): Collection of personal LLM evals with solutions + code
+- [THUNDERDOME](https://x.com/mathemagic1an/status/2048185433016897860): coding agent death matches (and other competitive games) in an E2B sandbox
 - [ShellShark](https://twitter.com/mathemagic1an/status/1641586201533587461): An AI-powered sysadmin
 - [ChadCode](https://twitter.com/mathemagic1an/status/1639779842769014784): A ChatGPT plugin for accelerated software engineering
 - [Tensai](https://twitter.com/mathemagic1an/status/1610023513334878208): A conversational UI for your codebase. Ask questions & make codebase-wide changes.
